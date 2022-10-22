@@ -1,0 +1,14 @@
+{
+  "name": "webscrapingjavascript",
+  "version": "1.0.0",
+  "description": "project exploring web scraping with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^18.2.0"
+  }
+}
