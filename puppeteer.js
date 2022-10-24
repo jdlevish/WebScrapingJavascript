@@ -19,5 +19,10 @@ const puppeteer = require("puppeteer");
 console.log(countryNames)
 
 
-  })();
 
+
+
+
+})();
+
+  // #countries > div > div:nth-child(4) > div:nth-child(1) > h3
