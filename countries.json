@@ -1,0 +1,1252 @@
+[
+  {
+    "name": "\n                            \n                            Andorra\n                        ",
+    "info": "\n                            Capital: Andorra la Vella\n                            Population: 84000\n                            Area (km2): 468.0\n                        ",
+    "capital": "Andorra la Vella"
+  },
+  {
+    "name": "\n                            \n                            United Arab Emirates\n                        ",
+    "info": "\n                            Capital: Abu Dhabi\n                            Population: 4975593\n                            Area (km2): 82880.0\n                        ",
+    "capital": "Abu Dhabi"
+  },
+  {
+    "name": "\n                            \n                            Afghanistan\n                        ",
+    "info": "\n                            Capital: Kabul\n                            Population: 29121286\n                            Area (km2): 647500.0\n                        ",
+    "capital": "Kabul"
+  },
+  {
+    "name": "\n                            \n                            Antigua and Barbuda\n                        ",
+    "info": "\n                            Capital: St. John's\n                            Population: 86754\n                            Area (km2): 443.0\n                        ",
+    "capital": "St. John's"
+  },
+  {
+    "name": "\n                            \n                            Anguilla\n                        ",
+    "info": "\n                            Capital: The Valley\n                            Population: 13254\n                            Area (km2): 102.0\n                        ",
+    "capital": "The Valley"
+  },
+  {
+    "name": "\n                            \n                            Albania\n                        ",
+    "info": "\n                            Capital: Tirana\n                            Population: 2986952\n                            Area (km2): 28748.0\n                        ",
+    "capital": "Tirana"
+  },
+  {
+    "name": "\n                            \n                            Armenia\n                        ",
+    "info": "\n                            Capital: Yerevan\n                            Population: 2968000\n                            Area (km2): 29800.0\n                        ",
+    "capital": "Yerevan"
+  },
+  {
+    "name": "\n                            \n                            Angola\n                        ",
+    "info": "\n                            Capital: Luanda\n                            Population: 13068161\n                            Area (km2): 1246700.0\n                        ",
+    "capital": "Luanda"
+  },
+  {
+    "name": "\n                            \n                            Antarctica\n                        ",
+    "info": "\n                            Capital: None\n                            Population: 0\n                            Area (km2): 1.4E7\n                        ",
+    "capital": "None"
+  },
+  {
+    "name": "\n                            \n                            Argentina\n                        ",
+    "info": "\n                            Capital: Buenos Aires\n                            Population: 41343201\n                            Area (km2): 2766890.0\n                        ",
+    "capital": "Buenos Aires"
+  },
+  {
+    "name": "\n                            \n                            American Samoa\n                        ",
+    "info": "\n                            Capital: Pago Pago\n                            Population: 57881\n                            Area (km2): 199.0\n                        ",
+    "capital": "Pago Pago"
+  },
+  {
+    "name": "\n                            \n                            Austria\n                        ",
+    "info": "\n                            Capital: Vienna\n                            Population: 8205000\n                            Area (km2): 83858.0\n                        ",
+    "capital": "Vienna"
+  },
+  {
+    "name": "\n                            \n                            Australia\n                        ",
+    "info": "\n                            Capital: Canberra\n                            Population: 21515754\n                            Area (km2): 7686850.0\n                        ",
+    "capital": "Canberra"
+  },
+  {
+    "name": "\n                            \n                            Aruba\n                        ",
+    "info": "\n                            Capital: Oranjestad\n                            Population: 71566\n                            Area (km2): 193.0\n                        ",
+    "capital": "Oranjestad"
+  },
+  {
+    "name": "\n                            \n                            Åland\n                        ",
+    "info": "\n                            Capital: Mariehamn\n                            Population: 26711\n                            Area (km2): 1580.0\n                        ",
+    "capital": "Mariehamn"
+  },
+  {
+    "name": "\n                            \n                            Azerbaijan\n                        ",
+    "info": "\n                            Capital: Baku\n                            Population: 8303512\n                            Area (km2): 86600.0\n                        ",
+    "capital": "Baku"
+  },
+  {
+    "name": "\n                            \n                            Bosnia and Herzegovina\n                        ",
+    "info": "\n                            Capital: Sarajevo\n                            Population: 4590000\n                            Area (km2): 51129.0\n                        ",
+    "capital": "Sarajevo"
+  },
+  {
+    "name": "\n                            \n                            Barbados\n                        ",
+    "info": "\n                            Capital: Bridgetown\n                            Population: 285653\n                            Area (km2): 431.0\n                        ",
+    "capital": "Bridgetown"
+  },
+  {
+    "name": "\n                            \n                            Bangladesh\n                        ",
+    "info": "\n                            Capital: Dhaka\n                            Population: 156118464\n                            Area (km2): 144000.0\n                        ",
+    "capital": "Dhaka"
+  },
+  {
+    "name": "\n                            \n                            Belgium\n                        ",
+    "info": "\n                            Capital: Brussels\n                            Population: 10403000\n                            Area (km2): 30510.0\n                        ",
+    "capital": "Brussels"
+  },
+  {
+    "name": "\n                            \n                            Burkina Faso\n                        ",
+    "info": "\n                            Capital: Ouagadougou\n                            Population: 16241811\n                            Area (km2): 274200.0\n                        ",
+    "capital": "Ouagadougou"
+  },
+  {
+    "name": "\n                            \n                            Bulgaria\n                        ",
+    "info": "\n                            Capital: Sofia\n                            Population: 7148785\n                            Area (km2): 110910.0\n                        ",
+    "capital": "Sofia"
+  },
+  {
+    "name": "\n                            \n                            Bahrain\n                        ",
+    "info": "\n                            Capital: Manama\n                            Population: 738004\n                            Area (km2): 665.0\n                        ",
+    "capital": "Manama"
+  },
+  {
+    "name": "\n                            \n                            Burundi\n                        ",
+    "info": "\n                            Capital: Bujumbura\n                            Population: 9863117\n                            Area (km2): 27830.0\n                        ",
+    "capital": "Bujumbura"
+  },
+  {
+    "name": "\n                            \n                            Benin\n                        ",
+    "info": "\n                            Capital: Porto-Novo\n                            Population: 9056010\n                            Area (km2): 112620.0\n                        ",
+    "capital": "Porto-Novo"
+  },
+  {
+    "name": "\n                            \n                            Saint Barthélemy\n                        ",
+    "info": "\n                            Capital: Gustavia\n                            Population: 8450\n                            Area (km2): 21.0\n                        ",
+    "capital": "Gustavia"
+  },
+  {
+    "name": "\n                            \n                            Bermuda\n                        ",
+    "info": "\n                            Capital: Hamilton\n                            Population: 65365\n                            Area (km2): 53.0\n                        ",
+    "capital": "Hamilton"
+  },
+  {
+    "name": "\n                            \n                            Brunei\n                        ",
+    "info": "\n                            Capital: Bandar Seri Begawan\n                            Population: 395027\n                            Area (km2): 5770.0\n                        ",
+    "capital": "Bandar Seri Begawan"
+  },
+  {
+    "name": "\n                            \n                            Bolivia\n                        ",
+    "info": "\n                            Capital: Sucre\n                            Population: 9947418\n                            Area (km2): 1098580.0\n                        ",
+    "capital": "Sucre"
+  },
+  {
+    "name": "\n                            \n                            Bonaire\n                        ",
+    "info": "\n                            Capital: Kralendijk\n                            Population: 18012\n                            Area (km2): 328.0\n                        ",
+    "capital": "Kralendijk"
+  },
+  {
+    "name": "\n                            \n                            Brazil\n                        ",
+    "info": "\n                            Capital: Brasília\n                            Population: 201103330\n                            Area (km2): 8511965.0\n                        ",
+    "capital": "Brasília"
+  },
+  {
+    "name": "\n                            \n                            Bahamas\n                        ",
+    "info": "\n                            Capital: Nassau\n                            Population: 301790\n                            Area (km2): 13940.0\n                        ",
+    "capital": "Nassau"
+  },
+  {
+    "name": "\n                            \n                            Bhutan\n                        ",
+    "info": "\n                            Capital: Thimphu\n                            Population: 699847\n                            Area (km2): 47000.0\n                        ",
+    "capital": "Thimphu"
+  },
+  {
+    "name": "\n                            \n                            Bouvet Island\n                        ",
+    "info": "\n                            Capital: None\n                            Population: 0\n                            Area (km2): 49.0\n                        ",
+    "capital": "None"
+  },
+  {
+    "name": "\n                            \n                            Botswana\n                        ",
+    "info": "\n                            Capital: Gaborone\n                            Population: 2029307\n                            Area (km2): 600370.0\n                        ",
+    "capital": "Gaborone"
+  },
+  {
+    "name": "\n                            \n                            Belarus\n                        ",
+    "info": "\n                            Capital: Minsk\n                            Population: 9685000\n                            Area (km2): 207600.0\n                        ",
+    "capital": "Minsk"
+  },
+  {
+    "name": "\n                            \n                            Belize\n                        ",
+    "info": "\n                            Capital: Belmopan\n                            Population: 314522\n                            Area (km2): 22966.0\n                        ",
+    "capital": "Belmopan"
+  },
+  {
+    "name": "\n                            \n                            Canada\n                        ",
+    "info": "\n                            Capital: Ottawa\n                            Population: 33679000\n                            Area (km2): 9984670.0\n                        ",
+    "capital": "Ottawa"
+  },
+  {
+    "name": "\n                            \n                            Cocos [Keeling] Islands\n                        ",
+    "info": "\n                            Capital: West Island\n                            Population: 628\n                            Area (km2): 14.0\n                        ",
+    "capital": "West Island"
+  },
+  {
+    "name": "\n                            \n                            Democratic Republic of the Congo\n                        ",
+    "info": "\n                            Capital: Kinshasa\n                            Population: 70916439\n                            Area (km2): 2345410.0\n                        ",
+    "capital": "Kinshasa"
+  },
+  {
+    "name": "\n                            \n                            Central African Republic\n                        ",
+    "info": "\n                            Capital: Bangui\n                            Population: 4844927\n                            Area (km2): 622984.0\n                        ",
+    "capital": "Bangui"
+  },
+  {
+    "name": "\n                            \n                            Republic of the Congo\n                        ",
+    "info": "\n                            Capital: Brazzaville\n                            Population: 3039126\n                            Area (km2): 342000.0\n                        ",
+    "capital": "Brazzaville"
+  },
+  {
+    "name": "\n                            \n                            Switzerland\n                        ",
+    "info": "\n                            Capital: Bern\n                            Population: 7581000\n                            Area (km2): 41290.0\n                        ",
+    "capital": "Bern"
+  },
+  {
+    "name": "\n                            \n                            Ivory Coast\n                        ",
+    "info": "\n                            Capital: Yamoussoukro\n                            Population: 21058798\n                            Area (km2): 322460.0\n                        ",
+    "capital": "Yamoussoukro"
+  },
+  {
+    "name": "\n                            \n                            Cook Islands\n                        ",
+    "info": "\n                            Capital: Avarua\n                            Population: 21388\n                            Area (km2): 240.0\n                        ",
+    "capital": "Avarua"
+  },
+  {
+    "name": "\n                            \n                            Chile\n                        ",
+    "info": "\n                            Capital: Santiago\n                            Population: 16746491\n                            Area (km2): 756950.0\n                        ",
+    "capital": "Santiago"
+  },
+  {
+    "name": "\n                            \n                            Cameroon\n                        ",
+    "info": "\n                            Capital: Yaoundé\n                            Population: 19294149\n                            Area (km2): 475440.0\n                        ",
+    "capital": "Yaoundé"
+  },
+  {
+    "name": "\n                            \n                            China\n                        ",
+    "info": "\n                            Capital: Beijing\n                            Population: 1330044000\n                            Area (km2): 9596960.0\n                        ",
+    "capital": "Beijing"
+  },
+  {
+    "name": "\n                            \n                            Colombia\n                        ",
+    "info": "\n                            Capital: Bogotá\n                            Population: 47790000\n                            Area (km2): 1138910.0\n                        ",
+    "capital": "Bogotá"
+  },
+  {
+    "name": "\n                            \n                            Costa Rica\n                        ",
+    "info": "\n                            Capital: San José\n                            Population: 4516220\n                            Area (km2): 51100.0\n                        ",
+    "capital": "San José"
+  },
+  {
+    "name": "\n                            \n                            Cuba\n                        ",
+    "info": "\n                            Capital: Havana\n                            Population: 11423000\n                            Area (km2): 110860.0\n                        ",
+    "capital": "Havana"
+  },
+  {
+    "name": "\n                            \n                            Cape Verde\n                        ",
+    "info": "\n                            Capital: Praia\n                            Population: 508659\n                            Area (km2): 4033.0\n                        ",
+    "capital": "Praia"
+  },
+  {
+    "name": "\n                            \n                            Curacao\n                        ",
+    "info": "\n                            Capital: Willemstad\n                            Population: 141766\n                            Area (km2): 444.0\n                        ",
+    "capital": "Willemstad"
+  },
+  {
+    "name": "\n                            \n                            Christmas Island\n                        ",
+    "info": "\n                            Capital: Flying Fish Cove\n                            Population: 1500\n                            Area (km2): 135.0\n                        ",
+    "capital": "Flying Fish Cove"
+  },
+  {
+    "name": "\n                            \n                            Cyprus\n                        ",
+    "info": "\n                            Capital: Nicosia\n                            Population: 1102677\n                            Area (km2): 9250.0\n                        ",
+    "capital": "Nicosia"
+  },
+  {
+    "name": "\n                            \n                            Czech Republic\n                        ",
+    "info": "\n                            Capital: Prague\n                            Population: 10476000\n                            Area (km2): 78866.0\n                        ",
+    "capital": "Prague"
+  },
+  {
+    "name": "\n                            \n                            Germany\n                        ",
+    "info": "\n                            Capital: Berlin\n                            Population: 81802257\n                            Area (km2): 357021.0\n                        ",
+    "capital": "Berlin"
+  },
+  {
+    "name": "\n                            \n                            Djibouti\n                        ",
+    "info": "\n                            Capital: Djibouti\n                            Population: 740528\n                            Area (km2): 23000.0\n                        ",
+    "capital": "Djibouti"
+  },
+  {
+    "name": "\n                            \n                            Denmark\n                        ",
+    "info": "\n                            Capital: Copenhagen\n                            Population: 5484000\n                            Area (km2): 43094.0\n                        ",
+    "capital": "Copenhagen"
+  },
+  {
+    "name": "\n                            \n                            Dominica\n                        ",
+    "info": "\n                            Capital: Roseau\n                            Population: 72813\n                            Area (km2): 754.0\n                        ",
+    "capital": "Roseau"
+  },
+  {
+    "name": "\n                            \n                            Dominican Republic\n                        ",
+    "info": "\n                            Capital: Santo Domingo\n                            Population: 9823821\n                            Area (km2): 48730.0\n                        ",
+    "capital": "Santo Domingo"
+  },
+  {
+    "name": "\n                            \n                            Algeria\n                        ",
+    "info": "\n                            Capital: Algiers\n                            Population: 34586184\n                            Area (km2): 2381740.0\n                        ",
+    "capital": "Algiers"
+  },
+  {
+    "name": "\n                            \n                            Ecuador\n                        ",
+    "info": "\n                            Capital: Quito\n                            Population: 14790608\n                            Area (km2): 283560.0\n                        ",
+    "capital": "Quito"
+  },
+  {
+    "name": "\n                            \n                            Estonia\n                        ",
+    "info": "\n                            Capital: Tallinn\n                            Population: 1291170\n                            Area (km2): 45226.0\n                        ",
+    "capital": "Tallinn"
+  },
+  {
+    "name": "\n                            \n                            Egypt\n                        ",
+    "info": "\n                            Capital: Cairo\n                            Population: 80471869\n                            Area (km2): 1001450.0\n                        ",
+    "capital": "Cairo"
+  },
+  {
+    "name": "\n                            \n                            Western Sahara\n                        ",
+    "info": "\n                            Capital: Laâyoune / El Aaiún\n                            Population: 273008\n                            Area (km2): 266000.0\n                        ",
+    "capital": "Laâyoune / El Aaiún"
+  },
+  {
+    "name": "\n                            \n                            Eritrea\n                        ",
+    "info": "\n                            Capital: Asmara\n                            Population: 5792984\n                            Area (km2): 121320.0\n                        ",
+    "capital": "Asmara"
+  },
+  {
+    "name": "\n                            \n                            Spain\n                        ",
+    "info": "\n                            Capital: Madrid\n                            Population: 46505963\n                            Area (km2): 504782.0\n                        ",
+    "capital": "Madrid"
+  },
+  {
+    "name": "\n                            \n                            Ethiopia\n                        ",
+    "info": "\n                            Capital: Addis Ababa\n                            Population: 88013491\n                            Area (km2): 1127127.0\n                        ",
+    "capital": "Addis Ababa"
+  },
+  {
+    "name": "\n                            \n                            Finland\n                        ",
+    "info": "\n                            Capital: Helsinki\n                            Population: 5244000\n                            Area (km2): 337030.0\n                        ",
+    "capital": "Helsinki"
+  },
+  {
+    "name": "\n                            \n                            Fiji\n                        ",
+    "info": "\n                            Capital: Suva\n                            Population: 875983\n                            Area (km2): 18270.0\n                        ",
+    "capital": "Suva"
+  },
+  {
+    "name": "\n                            \n                            Falkland Islands\n                        ",
+    "info": "\n                            Capital: Stanley\n                            Population: 2638\n                            Area (km2): 12173.0\n                        ",
+    "capital": "Stanley"
+  },
+  {
+    "name": "\n                            \n                            Micronesia\n                        ",
+    "info": "\n                            Capital: Palikir\n                            Population: 107708\n                            Area (km2): 702.0\n                        ",
+    "capital": "Palikir"
+  },
+  {
+    "name": "\n                            \n                            Faroe Islands\n                        ",
+    "info": "\n                            Capital: Tórshavn\n                            Population: 48228\n                            Area (km2): 1399.0\n                        ",
+    "capital": "Tórshavn"
+  },
+  {
+    "name": "\n                            \n                            France\n                        ",
+    "info": "\n                            Capital: Paris\n                            Population: 64768389\n                            Area (km2): 547030.0\n                        ",
+    "capital": "Paris"
+  },
+  {
+    "name": "\n                            \n                            Gabon\n                        ",
+    "info": "\n                            Capital: Libreville\n                            Population: 1545255\n                            Area (km2): 267667.0\n                        ",
+    "capital": "Libreville"
+  },
+  {
+    "name": "\n                            \n                            United Kingdom\n                        ",
+    "info": "\n                            Capital: London\n                            Population: 62348447\n                            Area (km2): 244820.0\n                        ",
+    "capital": "London"
+  },
+  {
+    "name": "\n                            \n                            Grenada\n                        ",
+    "info": "\n                            Capital: St. George's\n                            Population: 107818\n                            Area (km2): 344.0\n                        ",
+    "capital": "St. George's"
+  },
+  {
+    "name": "\n                            \n                            Georgia\n                        ",
+    "info": "\n                            Capital: Tbilisi\n                            Population: 4630000\n                            Area (km2): 69700.0\n                        ",
+    "capital": "Tbilisi"
+  },
+  {
+    "name": "\n                            \n                            French Guiana\n                        ",
+    "info": "\n                            Capital: Cayenne\n                            Population: 195506\n                            Area (km2): 91000.0\n                        ",
+    "capital": "Cayenne"
+  },
+  {
+    "name": "\n                            \n                            Guernsey\n                        ",
+    "info": "\n                            Capital: St Peter Port\n                            Population: 65228\n                            Area (km2): 78.0\n                        ",
+    "capital": "St Peter Port"
+  },
+  {
+    "name": "\n                            \n                            Ghana\n                        ",
+    "info": "\n                            Capital: Accra\n                            Population: 24339838\n                            Area (km2): 239460.0\n                        ",
+    "capital": "Accra"
+  },
+  {
+    "name": "\n                            \n                            Gibraltar\n                        ",
+    "info": "\n                            Capital: Gibraltar\n                            Population: 27884\n                            Area (km2): 6.5\n                        ",
+    "capital": "Gibraltar"
+  },
+  {
+    "name": "\n                            \n                            Greenland\n                        ",
+    "info": "\n                            Capital: Nuuk\n                            Population: 56375\n                            Area (km2): 2166086.0\n                        ",
+    "capital": "Nuuk"
+  },
+  {
+    "name": "\n                            \n                            Gambia\n                        ",
+    "info": "\n                            Capital: Bathurst\n                            Population: 1593256\n                            Area (km2): 11300.0\n                        ",
+    "capital": "Bathurst"
+  },
+  {
+    "name": "\n                            \n                            Guinea\n                        ",
+    "info": "\n                            Capital: Conakry\n                            Population: 10324025\n                            Area (km2): 245857.0\n                        ",
+    "capital": "Conakry"
+  },
+  {
+    "name": "\n                            \n                            Guadeloupe\n                        ",
+    "info": "\n                            Capital: Basse-Terre\n                            Population: 443000\n                            Area (km2): 1780.0\n                        ",
+    "capital": "Basse-Terre"
+  },
+  {
+    "name": "\n                            \n                            Equatorial Guinea\n                        ",
+    "info": "\n                            Capital: Malabo\n                            Population: 1014999\n                            Area (km2): 28051.0\n                        ",
+    "capital": "Malabo"
+  },
+  {
+    "name": "\n                            \n                            Greece\n                        ",
+    "info": "\n                            Capital: Athens\n                            Population: 11000000\n                            Area (km2): 131940.0\n                        ",
+    "capital": "Athens"
+  },
+  {
+    "name": "\n                            \n                            South Georgia and the South Sandwich Islands\n                        ",
+    "info": "\n                            Capital: Grytviken\n                            Population: 30\n                            Area (km2): 3903.0\n                        ",
+    "capital": "Grytviken"
+  },
+  {
+    "name": "\n                            \n                            Guatemala\n                        ",
+    "info": "\n                            Capital: Guatemala City\n                            Population: 13550440\n                            Area (km2): 108890.0\n                        ",
+    "capital": "Guatemala City"
+  },
+  {
+    "name": "\n                            \n                            Guam\n                        ",
+    "info": "\n                            Capital: Hagåtña\n                            Population: 159358\n                            Area (km2): 549.0\n                        ",
+    "capital": "Hagåtña"
+  },
+  {
+    "name": "\n                            \n                            Guinea-Bissau\n                        ",
+    "info": "\n                            Capital: Bissau\n                            Population: 1565126\n                            Area (km2): 36120.0\n                        ",
+    "capital": "Bissau"
+  },
+  {
+    "name": "\n                            \n                            Guyana\n                        ",
+    "info": "\n                            Capital: Georgetown\n                            Population: 748486\n                            Area (km2): 214970.0\n                        ",
+    "capital": "Georgetown"
+  },
+  {
+    "name": "\n                            \n                            Hong Kong\n                        ",
+    "info": "\n                            Capital: Hong Kong\n                            Population: 6898686\n                            Area (km2): 1092.0\n                        ",
+    "capital": "Hong Kong"
+  },
+  {
+    "name": "\n                            \n                            Heard Island and McDonald Islands\n                        ",
+    "info": "\n                            Capital: None\n                            Population: 0\n                            Area (km2): 412.0\n                        ",
+    "capital": "None"
+  },
+  {
+    "name": "\n                            \n                            Honduras\n                        ",
+    "info": "\n                            Capital: Tegucigalpa\n                            Population: 7989415\n                            Area (km2): 112090.0\n                        ",
+    "capital": "Tegucigalpa"
+  },
+  {
+    "name": "\n                            \n                            Croatia\n                        ",
+    "info": "\n                            Capital: Zagreb\n                            Population: 4491000\n                            Area (km2): 56542.0\n                        ",
+    "capital": "Zagreb"
+  },
+  {
+    "name": "\n                            \n                            Haiti\n                        ",
+    "info": "\n                            Capital: Port-au-Prince\n                            Population: 9648924\n                            Area (km2): 27750.0\n                        ",
+    "capital": "Port-au-Prince"
+  },
+  {
+    "name": "\n                            \n                            Hungary\n                        ",
+    "info": "\n                            Capital: Budapest\n                            Population: 9982000\n                            Area (km2): 93030.0\n                        ",
+    "capital": "Budapest"
+  },
+  {
+    "name": "\n                            \n                            Indonesia\n                        ",
+    "info": "\n                            Capital: Jakarta\n                            Population: 242968342\n                            Area (km2): 1919440.0\n                        ",
+    "capital": "Jakarta"
+  },
+  {
+    "name": "\n                            \n                            Ireland\n                        ",
+    "info": "\n                            Capital: Dublin\n                            Population: 4622917\n                            Area (km2): 70280.0\n                        ",
+    "capital": "Dublin"
+  },
+  {
+    "name": "\n                            \n                            Israel\n                        ",
+    "info": "\n                            Capital: None\n                            Population: 7353985\n                            Area (km2): 20770.0\n                        ",
+    "capital": "None"
+  },
+  {
+    "name": "\n                            \n                            Isle of Man\n                        ",
+    "info": "\n                            Capital: Douglas\n                            Population: 75049\n                            Area (km2): 572.0\n                        ",
+    "capital": "Douglas"
+  },
+  {
+    "name": "\n                            \n                            India\n                        ",
+    "info": "\n                            Capital: New Delhi\n                            Population: 1173108018\n                            Area (km2): 3287590.0\n                        ",
+    "capital": "New Delhi"
+  },
+  {
+    "name": "\n                            \n                            British Indian Ocean Territory\n                        ",
+    "info": "\n                            Capital: None\n                            Population: 4000\n                            Area (km2): 60.0\n                        ",
+    "capital": "None"
+  },
+  {
+    "name": "\n                            \n                            Iraq\n                        ",
+    "info": "\n                            Capital: Baghdad\n                            Population: 29671605\n                            Area (km2): 437072.0\n                        ",
+    "capital": "Baghdad"
+  },
+  {
+    "name": "\n                            \n                            Iran\n                        ",
+    "info": "\n                            Capital: Tehran\n                            Population: 76923300\n                            Area (km2): 1648000.0\n                        ",
+    "capital": "Tehran"
+  },
+  {
+    "name": "\n                            \n                            Iceland\n                        ",
+    "info": "\n                            Capital: Reykjavik\n                            Population: 308910\n                            Area (km2): 103000.0\n                        ",
+    "capital": "Reykjavik"
+  },
+  {
+    "name": "\n                            \n                            Italy\n                        ",
+    "info": "\n                            Capital: Rome\n                            Population: 60340328\n                            Area (km2): 301230.0\n                        ",
+    "capital": "Rome"
+  },
+  {
+    "name": "\n                            \n                            Jersey\n                        ",
+    "info": "\n                            Capital: Saint Helier\n                            Population: 90812\n                            Area (km2): 116.0\n                        ",
+    "capital": "Saint Helier"
+  },
+  {
+    "name": "\n                            \n                            Jamaica\n                        ",
+    "info": "\n                            Capital: Kingston\n                            Population: 2847232\n                            Area (km2): 10991.0\n                        ",
+    "capital": "Kingston"
+  },
+  {
+    "name": "\n                            \n                            Jordan\n                        ",
+    "info": "\n                            Capital: Amman\n                            Population: 6407085\n                            Area (km2): 92300.0\n                        ",
+    "capital": "Amman"
+  },
+  {
+    "name": "\n                            \n                            Japan\n                        ",
+    "info": "\n                            Capital: Tokyo\n                            Population: 127288000\n                            Area (km2): 377835.0\n                        ",
+    "capital": "Tokyo"
+  },
+  {
+    "name": "\n                            \n                            Kenya\n                        ",
+    "info": "\n                            Capital: Nairobi\n                            Population: 40046566\n                            Area (km2): 582650.0\n                        ",
+    "capital": "Nairobi"
+  },
+  {
+    "name": "\n                            \n                            Kyrgyzstan\n                        ",
+    "info": "\n                            Capital: Bishkek\n                            Population: 5776500\n                            Area (km2): 198500.0\n                        ",
+    "capital": "Bishkek"
+  },
+  {
+    "name": "\n                            \n                            Cambodia\n                        ",
+    "info": "\n                            Capital: Phnom Penh\n                            Population: 14453680\n                            Area (km2): 181040.0\n                        ",
+    "capital": "Phnom Penh"
+  },
+  {
+    "name": "\n                            \n                            Kiribati\n                        ",
+    "info": "\n                            Capital: Tarawa\n                            Population: 92533\n                            Area (km2): 811.0\n                        ",
+    "capital": "Tarawa"
+  },
+  {
+    "name": "\n                            \n                            Comoros\n                        ",
+    "info": "\n                            Capital: Moroni\n                            Population: 773407\n                            Area (km2): 2170.0\n                        ",
+    "capital": "Moroni"
+  },
+  {
+    "name": "\n                            \n                            Saint Kitts and Nevis\n                        ",
+    "info": "\n                            Capital: Basseterre\n                            Population: 51134\n                            Area (km2): 261.0\n                        ",
+    "capital": "Basseterre"
+  },
+  {
+    "name": "\n                            \n                            North Korea\n                        ",
+    "info": "\n                            Capital: Pyongyang\n                            Population: 22912177\n                            Area (km2): 120540.0\n                        ",
+    "capital": "Pyongyang"
+  },
+  {
+    "name": "\n                            \n                            South Korea\n                        ",
+    "info": "\n                            Capital: Seoul\n                            Population: 48422644\n                            Area (km2): 98480.0\n                        ",
+    "capital": "Seoul"
+  },
+  {
+    "name": "\n                            \n                            Kuwait\n                        ",
+    "info": "\n                            Capital: Kuwait City\n                            Population: 2789132\n                            Area (km2): 17820.0\n                        ",
+    "capital": "Kuwait City"
+  },
+  {
+    "name": "\n                            \n                            Cayman Islands\n                        ",
+    "info": "\n                            Capital: George Town\n                            Population: 44270\n                            Area (km2): 262.0\n                        ",
+    "capital": "George Town"
+  },
+  {
+    "name": "\n                            \n                            Kazakhstan\n                        ",
+    "info": "\n                            Capital: Astana\n                            Population: 15340000\n                            Area (km2): 2717300.0\n                        ",
+    "capital": "Astana"
+  },
+  {
+    "name": "\n                            \n                            Laos\n                        ",
+    "info": "\n                            Capital: Vientiane\n                            Population: 6368162\n                            Area (km2): 236800.0\n                        ",
+    "capital": "Vientiane"
+  },
+  {
+    "name": "\n                            \n                            Lebanon\n                        ",
+    "info": "\n                            Capital: Beirut\n                            Population: 4125247\n                            Area (km2): 10400.0\n                        ",
+    "capital": "Beirut"
+  },
+  {
+    "name": "\n                            \n                            Saint Lucia\n                        ",
+    "info": "\n                            Capital: Castries\n                            Population: 160922\n                            Area (km2): 616.0\n                        ",
+    "capital": "Castries"
+  },
+  {
+    "name": "\n                            \n                            Liechtenstein\n                        ",
+    "info": "\n                            Capital: Vaduz\n                            Population: 35000\n                            Area (km2): 160.0\n                        ",
+    "capital": "Vaduz"
+  },
+  {
+    "name": "\n                            \n                            Sri Lanka\n                        ",
+    "info": "\n                            Capital: Colombo\n                            Population: 21513990\n                            Area (km2): 65610.0\n                        ",
+    "capital": "Colombo"
+  },
+  {
+    "name": "\n                            \n                            Liberia\n                        ",
+    "info": "\n                            Capital: Monrovia\n                            Population: 3685076\n                            Area (km2): 111370.0\n                        ",
+    "capital": "Monrovia"
+  },
+  {
+    "name": "\n                            \n                            Lesotho\n                        ",
+    "info": "\n                            Capital: Maseru\n                            Population: 1919552\n                            Area (km2): 30355.0\n                        ",
+    "capital": "Maseru"
+  },
+  {
+    "name": "\n                            \n                            Lithuania\n                        ",
+    "info": "\n                            Capital: Vilnius\n                            Population: 2944459\n                            Area (km2): 65200.0\n                        ",
+    "capital": "Vilnius"
+  },
+  {
+    "name": "\n                            \n                            Luxembourg\n                        ",
+    "info": "\n                            Capital: Luxembourg\n                            Population: 497538\n                            Area (km2): 2586.0\n                        ",
+    "capital": "Luxembourg"
+  },
+  {
+    "name": "\n                            \n                            Latvia\n                        ",
+    "info": "\n                            Capital: Riga\n                            Population: 2217969\n                            Area (km2): 64589.0\n                        ",
+    "capital": "Riga"
+  },
+  {
+    "name": "\n                            \n                            Libya\n                        ",
+    "info": "\n                            Capital: Tripoli\n                            Population: 6461454\n                            Area (km2): 1759540.0\n                        ",
+    "capital": "Tripoli"
+  },
+  {
+    "name": "\n                            \n                            Morocco\n                        ",
+    "info": "\n                            Capital: Rabat\n                            Population: 31627428\n                            Area (km2): 446550.0\n                        ",
+    "capital": "Rabat"
+  },
+  {
+    "name": "\n                            \n                            Monaco\n                        ",
+    "info": "\n                            Capital: Monaco\n                            Population: 32965\n                            Area (km2): 1.95\n                        ",
+    "capital": "Monaco"
+  },
+  {
+    "name": "\n                            \n                            Moldova\n                        ",
+    "info": "\n                            Capital: Chişinău\n                            Population: 4324000\n                            Area (km2): 33843.0\n                        ",
+    "capital": "Chişinău"
+  },
+  {
+    "name": "\n                            \n                            Montenegro\n                        ",
+    "info": "\n                            Capital: Podgorica\n                            Population: 666730\n                            Area (km2): 14026.0\n                        ",
+    "capital": "Podgorica"
+  },
+  {
+    "name": "\n                            \n                            Saint Martin\n                        ",
+    "info": "\n                            Capital: Marigot\n                            Population: 35925\n                            Area (km2): 53.0\n                        ",
+    "capital": "Marigot"
+  },
+  {
+    "name": "\n                            \n                            Madagascar\n                        ",
+    "info": "\n                            Capital: Antananarivo\n                            Population: 21281844\n                            Area (km2): 587040.0\n                        ",
+    "capital": "Antananarivo"
+  },
+  {
+    "name": "\n                            \n                            Marshall Islands\n                        ",
+    "info": "\n                            Capital: Majuro\n                            Population: 65859\n                            Area (km2): 181.3\n                        ",
+    "capital": "Majuro"
+  },
+  {
+    "name": "\n                            \n                            Macedonia\n                        ",
+    "info": "\n                            Capital: Skopje\n                            Population: 2062294\n                            Area (km2): 25333.0\n                        ",
+    "capital": "Skopje"
+  },
+  {
+    "name": "\n                            \n                            Mali\n                        ",
+    "info": "\n                            Capital: Bamako\n                            Population: 13796354\n                            Area (km2): 1240000.0\n                        ",
+    "capital": "Bamako"
+  },
+  {
+    "name": "\n                            \n                            Myanmar [Burma]\n                        ",
+    "info": "\n                            Capital: Naypyitaw\n                            Population: 53414374\n                            Area (km2): 678500.0\n                        ",
+    "capital": "Naypyitaw"
+  },
+  {
+    "name": "\n                            \n                            Mongolia\n                        ",
+    "info": "\n                            Capital: Ulan Bator\n                            Population: 3086918\n                            Area (km2): 1565000.0\n                        ",
+    "capital": "Ulan Bator"
+  },
+  {
+    "name": "\n                            \n                            Macao\n                        ",
+    "info": "\n                            Capital: Macao\n                            Population: 449198\n                            Area (km2): 254.0\n                        ",
+    "capital": "Macao"
+  },
+  {
+    "name": "\n                            \n                            Northern Mariana Islands\n                        ",
+    "info": "\n                            Capital: Saipan\n                            Population: 53883\n                            Area (km2): 477.0\n                        ",
+    "capital": "Saipan"
+  },
+  {
+    "name": "\n                            \n                            Martinique\n                        ",
+    "info": "\n                            Capital: Fort-de-France\n                            Population: 432900\n                            Area (km2): 1100.0\n                        ",
+    "capital": "Fort-de-France"
+  },
+  {
+    "name": "\n                            \n                            Mauritania\n                        ",
+    "info": "\n                            Capital: Nouakchott\n                            Population: 3205060\n                            Area (km2): 1030700.0\n                        ",
+    "capital": "Nouakchott"
+  },
+  {
+    "name": "\n                            \n                            Montserrat\n                        ",
+    "info": "\n                            Capital: Plymouth\n                            Population: 9341\n                            Area (km2): 102.0\n                        ",
+    "capital": "Plymouth"
+  },
+  {
+    "name": "\n                            \n                            Malta\n                        ",
+    "info": "\n                            Capital: Valletta\n                            Population: 403000\n                            Area (km2): 316.0\n                        ",
+    "capital": "Valletta"
+  },
+  {
+    "name": "\n                            \n                            Mauritius\n                        ",
+    "info": "\n                            Capital: Port Louis\n                            Population: 1294104\n                            Area (km2): 2040.0\n                        ",
+    "capital": "Port Louis"
+  },
+  {
+    "name": "\n                            \n                            Maldives\n                        ",
+    "info": "\n                            Capital: Malé\n                            Population: 395650\n                            Area (km2): 300.0\n                        ",
+    "capital": "Malé"
+  },
+  {
+    "name": "\n                            \n                            Malawi\n                        ",
+    "info": "\n                            Capital: Lilongwe\n                            Population: 15447500\n                            Area (km2): 118480.0\n                        ",
+    "capital": "Lilongwe"
+  },
+  {
+    "name": "\n                            \n                            Mexico\n                        ",
+    "info": "\n                            Capital: Mexico City\n                            Population: 112468855\n                            Area (km2): 1972550.0\n                        ",
+    "capital": "Mexico City"
+  },
+  {
+    "name": "\n                            \n                            Malaysia\n                        ",
+    "info": "\n                            Capital: Kuala Lumpur\n                            Population: 28274729\n                            Area (km2): 329750.0\n                        ",
+    "capital": "Kuala Lumpur"
+  },
+  {
+    "name": "\n                            \n                            Mozambique\n                        ",
+    "info": "\n                            Capital: Maputo\n                            Population: 22061451\n                            Area (km2): 801590.0\n                        ",
+    "capital": "Maputo"
+  },
+  {
+    "name": "\n                            \n                            Namibia\n                        ",
+    "info": "\n                            Capital: Windhoek\n                            Population: 2128471\n                            Area (km2): 825418.0\n                        ",
+    "capital": "Windhoek"
+  },
+  {
+    "name": "\n                            \n                            New Caledonia\n                        ",
+    "info": "\n                            Capital: Noumea\n                            Population: 216494\n                            Area (km2): 19060.0\n                        ",
+    "capital": "Noumea"
+  },
+  {
+    "name": "\n                            \n                            Niger\n                        ",
+    "info": "\n                            Capital: Niamey\n                            Population: 15878271\n                            Area (km2): 1267000.0\n                        ",
+    "capital": "Niamey"
+  },
+  {
+    "name": "\n                            \n                            Norfolk Island\n                        ",
+    "info": "\n                            Capital: Kingston\n                            Population: 1828\n                            Area (km2): 34.6\n                        ",
+    "capital": "Kingston"
+  },
+  {
+    "name": "\n                            \n                            Nigeria\n                        ",
+    "info": "\n                            Capital: Abuja\n                            Population: 154000000\n                            Area (km2): 923768.0\n                        ",
+    "capital": "Abuja"
+  },
+  {
+    "name": "\n                            \n                            Nicaragua\n                        ",
+    "info": "\n                            Capital: Managua\n                            Population: 5995928\n                            Area (km2): 129494.0\n                        ",
+    "capital": "Managua"
+  },
+  {
+    "name": "\n                            \n                            Netherlands\n                        ",
+    "info": "\n                            Capital: Amsterdam\n                            Population: 16645000\n                            Area (km2): 41526.0\n                        ",
+    "capital": "Amsterdam"
+  },
+  {
+    "name": "\n                            \n                            Norway\n                        ",
+    "info": "\n                            Capital: Oslo\n                            Population: 5009150\n                            Area (km2): 324220.0\n                        ",
+    "capital": "Oslo"
+  },
+  {
+    "name": "\n                            \n                            Nepal\n                        ",
+    "info": "\n                            Capital: Kathmandu\n                            Population: 28951852\n                            Area (km2): 140800.0\n                        ",
+    "capital": "Kathmandu"
+  },
+  {
+    "name": "\n                            \n                            Nauru\n                        ",
+    "info": "\n                            Capital: Yaren\n                            Population: 10065\n                            Area (km2): 21.0\n                        ",
+    "capital": "Yaren"
+  },
+  {
+    "name": "\n                            \n                            Niue\n                        ",
+    "info": "\n                            Capital: Alofi\n                            Population: 2166\n                            Area (km2): 260.0\n                        ",
+    "capital": "Alofi"
+  },
+  {
+    "name": "\n                            \n                            New Zealand\n                        ",
+    "info": "\n                            Capital: Wellington\n                            Population: 4252277\n                            Area (km2): 268680.0\n                        ",
+    "capital": "Wellington"
+  },
+  {
+    "name": "\n                            \n                            Oman\n                        ",
+    "info": "\n                            Capital: Muscat\n                            Population: 2967717\n                            Area (km2): 212460.0\n                        ",
+    "capital": "Muscat"
+  },
+  {
+    "name": "\n                            \n                            Panama\n                        ",
+    "info": "\n                            Capital: Panama City\n                            Population: 3410676\n                            Area (km2): 78200.0\n                        ",
+    "capital": "Panama City"
+  },
+  {
+    "name": "\n                            \n                            Peru\n                        ",
+    "info": "\n                            Capital: Lima\n                            Population: 29907003\n                            Area (km2): 1285220.0\n                        ",
+    "capital": "Lima"
+  },
+  {
+    "name": "\n                            \n                            French Polynesia\n                        ",
+    "info": "\n                            Capital: Papeete\n                            Population: 270485\n                            Area (km2): 4167.0\n                        ",
+    "capital": "Papeete"
+  },
+  {
+    "name": "\n                            \n                            Papua New Guinea\n                        ",
+    "info": "\n                            Capital: Port Moresby\n                            Population: 6064515\n                            Area (km2): 462840.0\n                        ",
+    "capital": "Port Moresby"
+  },
+  {
+    "name": "\n                            \n                            Philippines\n                        ",
+    "info": "\n                            Capital: Manila\n                            Population: 99900177\n                            Area (km2): 300000.0\n                        ",
+    "capital": "Manila"
+  },
+  {
+    "name": "\n                            \n                            Pakistan\n                        ",
+    "info": "\n                            Capital: Islamabad\n                            Population: 184404791\n                            Area (km2): 803940.0\n                        ",
+    "capital": "Islamabad"
+  },
+  {
+    "name": "\n                            \n                            Poland\n                        ",
+    "info": "\n                            Capital: Warsaw\n                            Population: 38500000\n                            Area (km2): 312685.0\n                        ",
+    "capital": "Warsaw"
+  },
+  {
+    "name": "\n                            \n                            Saint Pierre and Miquelon\n                        ",
+    "info": "\n                            Capital: Saint-Pierre\n                            Population: 7012\n                            Area (km2): 242.0\n                        ",
+    "capital": "Saint-Pierre"
+  },
+  {
+    "name": "\n                            \n                            Pitcairn Islands\n                        ",
+    "info": "\n                            Capital: Adamstown\n                            Population: 46\n                            Area (km2): 47.0\n                        ",
+    "capital": "Adamstown"
+  },
+  {
+    "name": "\n                            \n                            Puerto Rico\n                        ",
+    "info": "\n                            Capital: San Juan\n                            Population: 3916632\n                            Area (km2): 9104.0\n                        ",
+    "capital": "San Juan"
+  },
+  {
+    "name": "\n                            \n                            Palestine\n                        ",
+    "info": "\n                            Capital: None\n                            Population: 3800000\n                            Area (km2): 5970.0\n                        ",
+    "capital": "None"
+  },
+  {
+    "name": "\n                            \n                            Portugal\n                        ",
+    "info": "\n                            Capital: Lisbon\n                            Population: 10676000\n                            Area (km2): 92391.0\n                        ",
+    "capital": "Lisbon"
+  },
+  {
+    "name": "\n                            \n                            Palau\n                        ",
+    "info": "\n                            Capital: Melekeok\n                            Population: 19907\n                            Area (km2): 458.0\n                        ",
+    "capital": "Melekeok"
+  },
+  {
+    "name": "\n                            \n                            Paraguay\n                        ",
+    "info": "\n                            Capital: Asunción\n                            Population: 6375830\n                            Area (km2): 406750.0\n                        ",
+    "capital": "Asunción"
+  },
+  {
+    "name": "\n                            \n                            Qatar\n                        ",
+    "info": "\n                            Capital: Doha\n                            Population: 840926\n                            Area (km2): 11437.0\n                        ",
+    "capital": "Doha"
+  },
+  {
+    "name": "\n                            \n                            Réunion\n                        ",
+    "info": "\n                            Capital: Saint-Denis\n                            Population: 776948\n                            Area (km2): 2517.0\n                        ",
+    "capital": "Saint-Denis"
+  },
+  {
+    "name": "\n                            \n                            Romania\n                        ",
+    "info": "\n                            Capital: Bucharest\n                            Population: 21959278\n                            Area (km2): 237500.0\n                        ",
+    "capital": "Bucharest"
+  },
+  {
+    "name": "\n                            \n                            Serbia\n                        ",
+    "info": "\n                            Capital: Belgrade\n                            Population: 7344847\n                            Area (km2): 88361.0\n                        ",
+    "capital": "Belgrade"
+  },
+  {
+    "name": "\n                            \n                            Russia\n                        ",
+    "info": "\n                            Capital: Moscow\n                            Population: 140702000\n                            Area (km2): 1.71E7\n                        ",
+    "capital": "Moscow"
+  },
+  {
+    "name": "\n                            \n                            Rwanda\n                        ",
+    "info": "\n                            Capital: Kigali\n                            Population: 11055976\n                            Area (km2): 26338.0\n                        ",
+    "capital": "Kigali"
+  },
+  {
+    "name": "\n                            \n                            Saudi Arabia\n                        ",
+    "info": "\n                            Capital: Riyadh\n                            Population: 25731776\n                            Area (km2): 1960582.0\n                        ",
+    "capital": "Riyadh"
+  },
+  {
+    "name": "\n                            \n                            Solomon Islands\n                        ",
+    "info": "\n                            Capital: Honiara\n                            Population: 559198\n                            Area (km2): 28450.0\n                        ",
+    "capital": "Honiara"
+  },
+  {
+    "name": "\n                            \n                            Seychelles\n                        ",
+    "info": "\n                            Capital: Victoria\n                            Population: 88340\n                            Area (km2): 455.0\n                        ",
+    "capital": "Victoria"
+  },
+  {
+    "name": "\n                            \n                            Sudan\n                        ",
+    "info": "\n                            Capital: Khartoum\n                            Population: 35000000\n                            Area (km2): 1861484.0\n                        ",
+    "capital": "Khartoum"
+  },
+  {
+    "name": "\n                            \n                            Sweden\n                        ",
+    "info": "\n                            Capital: Stockholm\n                            Population: 9828655\n                            Area (km2): 449964.0\n                        ",
+    "capital": "Stockholm"
+  },
+  {
+    "name": "\n                            \n                            Singapore\n                        ",
+    "info": "\n                            Capital: Singapore\n                            Population: 4701069\n                            Area (km2): 692.7\n                        ",
+    "capital": "Singapore"
+  },
+  {
+    "name": "\n                            \n                            Saint Helena\n                        ",
+    "info": "\n                            Capital: Jamestown\n                            Population: 7460\n                            Area (km2): 410.0\n                        ",
+    "capital": "Jamestown"
+  },
+  {
+    "name": "\n                            \n                            Slovenia\n                        ",
+    "info": "\n                            Capital: Ljubljana\n                            Population: 2007000\n                            Area (km2): 20273.0\n                        ",
+    "capital": "Ljubljana"
+  },
+  {
+    "name": "\n                            \n                            Svalbard and Jan Mayen\n                        ",
+    "info": "\n                            Capital: Longyearbyen\n                            Population: 2550\n                            Area (km2): 62049.0\n                        ",
+    "capital": "Longyearbyen"
+  },
+  {
+    "name": "\n                            \n                            Slovakia\n                        ",
+    "info": "\n                            Capital: Bratislava\n                            Population: 5455000\n                            Area (km2): 48845.0\n                        ",
+    "capital": "Bratislava"
+  },
+  {
+    "name": "\n                            \n                            Sierra Leone\n                        ",
+    "info": "\n                            Capital: Freetown\n                            Population: 5245695\n                            Area (km2): 71740.0\n                        ",
+    "capital": "Freetown"
+  },
+  {
+    "name": "\n                            \n                            San Marino\n                        ",
+    "info": "\n                            Capital: San Marino\n                            Population: 31477\n                            Area (km2): 61.2\n                        ",
+    "capital": "San Marino"
+  },
+  {
+    "name": "\n                            \n                            Senegal\n                        ",
+    "info": "\n                            Capital: Dakar\n                            Population: 12323252\n                            Area (km2): 196190.0\n                        ",
+    "capital": "Dakar"
+  },
+  {
+    "name": "\n                            \n                            Somalia\n                        ",
+    "info": "\n                            Capital: Mogadishu\n                            Population: 10112453\n                            Area (km2): 637657.0\n                        ",
+    "capital": "Mogadishu"
+  },
+  {
+    "name": "\n                            \n                            Suriname\n                        ",
+    "info": "\n                            Capital: Paramaribo\n                            Population: 492829\n                            Area (km2): 163270.0\n                        ",
+    "capital": "Paramaribo"
+  },
+  {
+    "name": "\n                            \n                            South Sudan\n                        ",
+    "info": "\n                            Capital: Juba\n                            Population: 8260490\n                            Area (km2): 644329.0\n                        ",
+    "capital": "Juba"
+  },
+  {
+    "name": "\n                            \n                            São Tomé and Príncipe\n                        ",
+    "info": "\n                            Capital: São Tomé\n                            Population: 175808\n                            Area (km2): 1001.0\n                        ",
+    "capital": "São Tomé"
+  },
+  {
+    "name": "\n                            \n                            El Salvador\n                        ",
+    "info": "\n                            Capital: San Salvador\n                            Population: 6052064\n                            Area (km2): 21040.0\n                        ",
+    "capital": "San Salvador"
+  },
+  {
+    "name": "\n                            \n                            Sint Maarten\n                        ",
+    "info": "\n                            Capital: Philipsburg\n                            Population: 37429\n                            Area (km2): 21.0\n                        ",
+    "capital": "Philipsburg"
+  },
+  {
+    "name": "\n                            \n                            Syria\n                        ",
+    "info": "\n                            Capital: Damascus\n                            Population: 22198110\n                            Area (km2): 185180.0\n                        ",
+    "capital": "Damascus"
+  },
+  {
+    "name": "\n                            \n                            Swaziland\n                        ",
+    "info": "\n                            Capital: Mbabane\n                            Population: 1354051\n                            Area (km2): 17363.0\n                        ",
+    "capital": "Mbabane"
+  },
+  {
+    "name": "\n                            \n                            Turks and Caicos Islands\n                        ",
+    "info": "\n                            Capital: Cockburn Town\n                            Population: 20556\n                            Area (km2): 430.0\n                        ",
+    "capital": "Cockburn Town"
+  },
+  {
+    "name": "\n                            \n                            Chad\n                        ",
+    "info": "\n                            Capital: N'Djamena\n                            Population: 10543464\n                            Area (km2): 1284000.0\n                        ",
+    "capital": "N'Djamena"
+  },
+  {
+    "name": "\n                            \n                            French Southern Territories\n                        ",
+    "info": "\n                            Capital: Port-aux-Français\n                            Population: 140\n                            Area (km2): 7829.0\n                        ",
+    "capital": "Port-aux-Français"
+  },
+  {
+    "name": "\n                            \n                            Togo\n                        ",
+    "info": "\n                            Capital: Lomé\n                            Population: 6587239\n                            Area (km2): 56785.0\n                        ",
+    "capital": "Lomé"
+  },
+  {
+    "name": "\n                            \n                            Thailand\n                        ",
+    "info": "\n                            Capital: Bangkok\n                            Population: 67089500\n                            Area (km2): 514000.0\n                        ",
+    "capital": "Bangkok"
+  },
+  {
+    "name": "\n                            \n                            Tajikistan\n                        ",
+    "info": "\n                            Capital: Dushanbe\n                            Population: 7487489\n                            Area (km2): 143100.0\n                        ",
+    "capital": "Dushanbe"
+  },
+  {
+    "name": "\n                            \n                            Tokelau\n                        ",
+    "info": "\n                            Capital: None\n                            Population: 1466\n                            Area (km2): 10.0\n                        ",
+    "capital": "None"
+  },
+  {
+    "name": "\n                            \n                            East Timor\n                        ",
+    "info": "\n                            Capital: Dili\n                            Population: 1154625\n                            Area (km2): 15007.0\n                        ",
+    "capital": "Dili"
+  },
+  {
+    "name": "\n                            \n                            Turkmenistan\n                        ",
+    "info": "\n                            Capital: Ashgabat\n                            Population: 4940916\n                            Area (km2): 488100.0\n                        ",
+    "capital": "Ashgabat"
+  },
+  {
+    "name": "\n                            \n                            Tunisia\n                        ",
+    "info": "\n                            Capital: Tunis\n                            Population: 10589025\n                            Area (km2): 163610.0\n                        ",
+    "capital": "Tunis"
+  },
+  {
+    "name": "\n                            \n                            Tonga\n                        ",
+    "info": "\n                            Capital: Nuku'alofa\n                            Population: 122580\n                            Area (km2): 748.0\n                        ",
+    "capital": "Nuku'alofa"
+  },
+  {
+    "name": "\n                            \n                            Turkey\n                        ",
+    "info": "\n                            Capital: Ankara\n                            Population: 77804122\n                            Area (km2): 780580.0\n                        ",
+    "capital": "Ankara"
+  },
+  {
+    "name": "\n                            \n                            Trinidad and Tobago\n                        ",
+    "info": "\n                            Capital: Port of Spain\n                            Population: 1228691\n                            Area (km2): 5128.0\n                        ",
+    "capital": "Port of Spain"
+  },
+  {
+    "name": "\n                            \n                            Tuvalu\n                        ",
+    "info": "\n                            Capital: Funafuti\n                            Population: 10472\n                            Area (km2): 26.0\n                        ",
+    "capital": "Funafuti"
+  },
+  {
+    "name": "\n                            \n                            Taiwan\n                        ",
+    "info": "\n                            Capital: Taipei\n                            Population: 22894384\n                            Area (km2): 35980.0\n                        ",
+    "capital": "Taipei"
+  },
+  {
+    "name": "\n                            \n                            Tanzania\n                        ",
+    "info": "\n                            Capital: Dodoma\n                            Population: 41892895\n                            Area (km2): 945087.0\n                        ",
+    "capital": "Dodoma"
+  },
+  {
+    "name": "\n                            \n                            Ukraine\n                        ",
+    "info": "\n                            Capital: Kiev\n                            Population: 45415596\n                            Area (km2): 603700.0\n                        ",
+    "capital": "Kiev"
+  },
+  {
+    "name": "\n                            \n                            Uganda\n                        ",
+    "info": "\n                            Capital: Kampala\n                            Population: 33398682\n                            Area (km2): 236040.0\n                        ",
+    "capital": "Kampala"
+  },
+  {
+    "name": "\n                            \n                            U.S. Minor Outlying Islands\n                        ",
+    "info": "\n                            Capital: None\n                            Population: 0\n                            Area (km2): 0.0\n                        ",
+    "capital": "None"
+  },
+  {
+    "name": "\n                            \n                            United States\n                        ",
+    "info": "\n                            Capital: Washington\n                            Population: 310232863\n                            Area (km2): 9629091.0\n                        ",
+    "capital": "Washington"
+  },
+  {
+    "name": "\n                            \n                            Uruguay\n                        ",
+    "info": "\n                            Capital: Montevideo\n                            Population: 3477000\n                            Area (km2): 176220.0\n                        ",
+    "capital": "Montevideo"
+  },
+  {
+    "name": "\n                            \n                            Uzbekistan\n                        ",
+    "info": "\n                            Capital: Tashkent\n                            Population: 27865738\n                            Area (km2): 447400.0\n                        ",
+    "capital": "Tashkent"
+  },
+  {
+    "name": "\n                            \n                            Vatican City\n                        ",
+    "info": "\n                            Capital: Vatican City\n                            Population: 921\n                            Area (km2): 0.44\n                        ",
+    "capital": "Vatican City"
+  },
+  {
+    "name": "\n                            \n                            Saint Vincent and the Grenadines\n                        ",
+    "info": "\n                            Capital: Kingstown\n                            Population: 104217\n                            Area (km2): 389.0\n                        ",
+    "capital": "Kingstown"
+  },
+  {
+    "name": "\n                            \n                            Venezuela\n                        ",
+    "info": "\n                            Capital: Caracas\n                            Population: 27223228\n                            Area (km2): 912050.0\n                        ",
+    "capital": "Caracas"
+  },
+  {
+    "name": "\n                            \n                            British Virgin Islands\n                        ",
+    "info": "\n                            Capital: Road Town\n                            Population: 21730\n                            Area (km2): 153.0\n                        ",
+    "capital": "Road Town"
+  },
+  {
+    "name": "\n                            \n                            U.S. Virgin Islands\n                        ",
+    "info": "\n                            Capital: Charlotte Amalie\n                            Population: 108708\n                            Area (km2): 352.0\n                        ",
+    "capital": "Charlotte Amalie"
+  },
+  {
+    "name": "\n                            \n                            Vietnam\n                        ",
+    "info": "\n                            Capital: Hanoi\n                            Population: 89571130\n                            Area (km2): 329560.0\n                        ",
+    "capital": "Hanoi"
+  },
+  {
+    "name": "\n                            \n                            Vanuatu\n                        ",
+    "info": "\n                            Capital: Port Vila\n                            Population: 221552\n                            Area (km2): 12200.0\n                        ",
+    "capital": "Port Vila"
+  },
+  {
+    "name": "\n                            \n                            Wallis and Futuna\n                        ",
+    "info": "\n                            Capital: Mata-Utu\n                            Population: 16025\n                            Area (km2): 274.0\n                        ",
+    "capital": "Mata-Utu"
+  },
+  {
+    "name": "\n                            \n                            Samoa\n                        ",
+    "info": "\n                            Capital: Apia\n                            Population: 192001\n                            Area (km2): 2944.0\n                        ",
+    "capital": "Apia"
+  },
+  {
+    "name": "\n                            \n                            Kosovo\n                        ",
+    "info": "\n                            Capital: Pristina\n                            Population: 1800000\n                            Area (km2): 10908.0\n                        ",
+    "capital": "Pristina"
+  },
+  {
+    "name": "\n                            \n                            Yemen\n                        ",
+    "info": "\n                            Capital: Sanaa\n                            Population: 23495361\n                            Area (km2): 527970.0\n                        ",
+    "capital": "Sanaa"
+  },
+  {
+    "name": "\n                            \n                            Mayotte\n                        ",
+    "info": "\n                            Capital: Mamoudzou\n                            Population: 159042\n                            Area (km2): 374.0\n                        ",
+    "capital": "Mamoudzou"
+  },
+  {
+    "name": "\n                            \n                            South Africa\n                        ",
+    "info": "\n                            Capital: Pretoria\n                            Population: 49000000\n                            Area (km2): 1219912.0\n                        ",
+    "capital": "Pretoria"
+  },
+  {
+    "name": "\n                            \n                            Zambia\n                        ",
+    "info": "\n                            Capital: Lusaka\n                            Population: 13460305\n                            Area (km2): 752614.0\n                        ",
+    "capital": "Lusaka"
+  },
+  {
+    "name": "\n                            \n                            Zimbabwe\n                        ",
+    "info": "\n                            Capital: Harare\n                            Population: 11651858\n                            Area (km2): 390580.0\n                        ",
+    "capital": "Harare"
+  }
+]
