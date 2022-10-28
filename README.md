@@ -2,7 +2,7 @@
 
 # web scraping in JavaScript
 
-## ![](https://img.shields.io/github/license/jdlevish/webscrapinginJavaScript/)
+## ![](https://img.shields.io/github/license/jdlevish/Webscrapingjavascript ) ![](https://img.shields.io/github/languages/top/jdlevish/webscrapingjavascript)
 
 ## Table Of Contents
 
